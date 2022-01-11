@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FranzPichardoR
-- 👀 I’m interested in Video Game Design and Development
+- 👀 I’m interested in Video Game Design and Web/Mobile Development
 - 🌱 I’m currently learning React/React Native
 - 💞️ I’m looking to collaborate on React/React Native
 - 📫 How to reach me through Github
